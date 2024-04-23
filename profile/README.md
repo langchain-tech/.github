@@ -40,3 +40,5 @@ Follow us to stay updated with our latest innovations and join our journey towar
 ###  Our blog:
 [https://www.langchain.ca/blog](https://www.langchain.ca/blog)
 
+###  Lead Maintainer:
+[@vishal-bluebash](https://github.com/vishal-bluebash) [@prince-bluebash](https://github.com/prince-bluebash)
