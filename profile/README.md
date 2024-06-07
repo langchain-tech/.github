@@ -1,6 +1,6 @@
-## Welcome to LangsChain Tech Team 👋  
+## Welcome to LangsChain Tech Developers 👋  
 
-#### We are team build applications on top of langchain framework, we are not developers from langchain
+#### We build applications on top of Langchain framework, we are not team who build Langchain
 
 We are a dynamic team of passionate developers specializing in Python and the exciting world of Large Language Models (LLMs). Our collective expertise covers a broad spectrum of cutting-edge technologies and frameworks, making us your go-to destination for AI-powered solutions.
 
