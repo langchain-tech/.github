@@ -1,7 +1,5 @@
 ## Welcome to LangsChain/Autogen/NLP/Chatbot/Langflow/RAG Developers 👋  
 
-#### We build applications on top of the Langchain framework, we are not a team that builds Langchain
-
 We are a dynamic team of passionate developers specializing in Python and the exciting world of Large Language Models (LLMs). Our collective expertise covers a broad spectrum of cutting-edge technologies and frameworks, making us your go-to destination for AI-powered solutions.
 
 ### What You'll Find With Us:
