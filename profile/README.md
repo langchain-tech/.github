@@ -1,4 +1,4 @@
-## Welcome to LangsChain/Augen/AI/Langflow/RAG Tech Developers 👋  
+## Welcome to LangsChain/Augen/AI/Langflow/RAG Developers 👋  
 
 #### We build applications on top of the Langchain framework, we are not a team that builds Langchain
 
